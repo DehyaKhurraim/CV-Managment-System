@@ -77,4 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact [your-name](mailto:your-email@example.com).
+For any questions or inquiries, please contact [Dehya Khurraim Siddiqui](mailto:dehya.khurraim@gmail.com).
