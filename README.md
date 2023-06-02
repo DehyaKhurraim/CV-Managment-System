@@ -1,5 +1,7 @@
 # CV Management System
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 This is a C++ based CV (Curriculum Vitae) Management System, designed to store and manage CVs efficiently. It provides functionalities to add, edit, delete, and search CVs in a user-friendly manner. This system is useful for organizations or individuals who want to streamline their CV management process.
 
 ## Features
